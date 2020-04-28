@@ -1,3 +1,5 @@
+# Case study from https://rdrr.io/bioc/TCGAbiolinks/f/vignettes/casestudy.Rmd
+
 library(TCGAbiolinks)
 library(SummarizedExperiment)
 
