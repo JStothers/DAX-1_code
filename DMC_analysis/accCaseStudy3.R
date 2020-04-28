@@ -1,6 +1,8 @@
 library(TCGAbiolinks)
 library(SummarizedExperiment)
 
+# Case study from https://rdrr.io/bioc/TCGAbiolinks/f/vignettes/casestudy.Rmd
+
 setwd("C:/Users/jstot/Desktop/Jess_work/Bioinformatics/Project")
 #-----------------------------------
 # STEP 1: Search, download, prepare |
